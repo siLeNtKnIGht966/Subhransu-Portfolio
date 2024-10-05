@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # My_portfolio
-Update my basic (html, CSS, Java script) portfolio --> single page react portfolio.
+Update my basic (html, CSS, Java script) Portfolio --> Single Page React Portfolio.
 >>>>>>> 9b76cc9a7b9c1432c98da0e569ac1c575809a43c
